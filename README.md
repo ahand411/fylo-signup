@@ -1,6 +1,6 @@
 # Frontend Mentor - Beta sign up split layout
 
-![Header/intro section for the Beta sign up split layout](assets/desktop-design.jpg)
+![Header/intro section for the Beta sign up split layout](/assets/desktop-design.jpg)
 
 ## Welcome! 👋
 
